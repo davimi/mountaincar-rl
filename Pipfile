@@ -1,0 +1,19 @@
+[[source]]
+name = "pip"
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "~=1.16"
+pandas = "~=0.24"
+tensorflow = "~=1.12"
+gym = "*"
+keras = "~=2.2"
+keras-rl = "*"
+matplotlib = "*"
+seaborn = "*"
+
+[requires]
+python_version = "3.6"

@@ -1,0 +1,8 @@
+*.iml
+Pipfile.lock
+.idea
+out/
+src/rl/__pycache__/*
+src/resources/*
+*.pyc
+.DS_Store
